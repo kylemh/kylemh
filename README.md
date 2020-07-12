@@ -18,8 +18,8 @@ This is as much for me as it is you 😂
 
 ## Want to speak with me?
 
-📬 [inbox@kylemh.com](mailto:inbox@kylemh.com)
-🐦 [@kylemh_](https://twitter.com/kylemh_)
+- 📬 [inbox@kylemh.com](mailto:inbox@kylemh.com)
+- 🐦 [@kylemh_](https://twitter.com/kylemh_)
 
 ## Work with me!
 
