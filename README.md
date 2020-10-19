@@ -11,6 +11,7 @@ This is as much for me as it is you 😂
 
 - [x] ⚛️ &nbsp; I have a lot of work that I want to deliver on [TSDX](https://github.com/jaredpalmer/tsdx), especially in regards to adding [Storybook](https://github.com/storybookjs/storybook/) to the mix, but I'm waiting until Storybook's [v6 releases](https://github.com/storybookjs/storybook/issues/9311).
 - [x] 🖍 &nbsp; I want to migrate all of Operation Code's stories to [CSF](https://storybook.js.org/docs/formats/component-story-format/) and use the stories in test code.
+- [ ] ▲ Got selected to give a lightning talk at [Next.js Conf](https://nextjs.org/conf) - gotta give it!
 - [ ] 🐰 &nbsp; I want to eventually (5 years or so maybe) build out [Innocuous Tech](https://github.com/innocuous-tech) as a digital agency... so I own http://innocuous.tech but need to build a website for it.
 - [ ] 🧱 &nbsp; I'd like to fully flesh out [Reach](https://github.com/reach/reach-ui)-esque component library devoid of styles, but focused on a nice API layer + accessibility in [Innoucuous Tech's Core repo](https://github.com/innocuous-tech/core)
 - [ ] 🧐 &nbsp; I want to get [Lintground](https://github.com/innocuous-tech/lintground) up and running. It's going to be an app to help teams or individual people come up with a lint config that they enjoy instead of blindly leveraging presets which lead to lint exhaustion. Linting is good, and I'm hoping this app helps convince the world of naysayers that believe it's just a bad formatting tool.
