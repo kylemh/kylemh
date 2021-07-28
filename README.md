@@ -9,7 +9,3 @@ I'm still hoping that <a href="http://www.creativebloq.com/web-design/snowfall-5
 
 - 📬 [inbox@kylemh.com](mailto:inbox@kylemh.com)
 - 🐦 [@kylemh_](https://twitter.com/kylemh_)
-
-## Work with me!
-
-We're hiring at [Air](https://air.inc/jobs)!
